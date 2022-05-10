@@ -29,22 +29,22 @@ Create a file on the desktop with the script and a text file with the first and 
   (Be sure to add a memorable user so that you can log into it as a test)
   <br/>
   <br/>
-<img src="https://i.imgur.com/qkzJOuH.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/qkzJOuH.png" height="80%" width="80%" alt="Active Directory PowerShell"/>
 <br />
 <br />
 In PowerShell ISE, navigate to the directory containing the names text file and run the script: <br/>
   <br/>
-<img src="https://i.imgur.com/fsULeGd.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/fsULeGd.png" height="80%" width="80%" alt="Active Directory PowerShell"/>
 <br />
 <br />
 Once the script is done running, all the users should be visible in the Active Directory Users and Computers tool:  <br/>
   <br/>
-<img src="https://i.imgur.com/1Oy1GRB.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/1Oy1GRB.png" height="80%" width="80%" alt="Active Directory PowerShell"/>
 <br />
 <br />
 Log in to one of the newly created users on a Windows 10 Client that is connected to the domain:  <br/>
   <br/>
-<img src="https://i.imgur.com/WsqgegR.png" height="80%" width="80%" alt="NAS setup"/>
+<img src="https://i.imgur.com/WsqgegR.png" height="80%" width="80%" alt="Active Directory PowerShell"/>
 <br />
 
 <!--
