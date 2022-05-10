@@ -1,4 +1,4 @@
-<h1>Active Directory Domain Environment</h1>
+<h1>Active Directory User Creation with PowerShell</h1>
 
 <h2>Description</h2>
 This lab details the use of a PowerShell script to automate the creation of 1k+ users in an Active Directory environment. It follows the completion of the Active Directory Domain environment setup lab.
